@@ -1,5 +1,4 @@
 # Artificial Intelligence Game - GangiHo
-Artificial Intelligence Game using Minimax algorithm
 
 ##1) The Game
 
@@ -51,3 +50,5 @@ Where `n` is the board size, `m` is the total number of moves since the start of
 
 <img src="https://raw.githubusercontent.com/amirbawab/Artificial-Intelligence-Game-GangiHo/master/Screenshots/3.png">
 
+##3) Team members
+Amir Bawab (<a href="https://github.com/amirbawab">github</a>) and Elias Haroun (<a href="https://github.com/EliHar">github</a>)
