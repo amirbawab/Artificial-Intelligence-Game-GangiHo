@@ -38,7 +38,7 @@ Where `n` is the board size, `m` is the total number of moves since the start of
 
 ##2) Graghical User Interface (GUI)
 
-###Start the GIU (<a href="https://github.com/amirbawab/Artificial-Intelligence-Game-GangiHo/blob/master/Runnable%20JAR/GangiHo.jar?raw=true">GangiHo.jar</a>)
+###Start the GUI (<a href="https://github.com/amirbawab/Artificial-Intelligence-Game-GangiHo/blob/master/Runnable%20JAR/GangiHo.jar?raw=true">GangiHo.jar</a>)
 
 <img src="https://raw.githubusercontent.com/amirbawab/Artificial-Intelligence-Game-GangiHo/master/Screenshots/1.png">
 
