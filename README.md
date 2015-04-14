@@ -41,8 +41,13 @@ Where `n` is the board size, `m` is the total number of moves since the start of
 
 ###Start the GIU (GangiHo.jar)
 
+<img src="https://raw.githubusercontent.com/amirbawab/Artificial-Intelligence-Game-GangiHo/master/Screenshots/1.png">
+
 ###Human vs AI
+
+<img src="https://raw.githubusercontent.com/amirbawab/Artificial-Intelligence-Game-GangiHo/master/Screenshots/2.png">
 
 ###Debug mode
 
+<img src="https://raw.githubusercontent.com/amirbawab/Artificial-Intelligence-Game-GangiHo/master/Screenshots/3.png">
 
