@@ -9,7 +9,7 @@ import game.GangiHo;
 public class Graph{
 	public int[][] graph; 		// Adjacency List
 	public int[] degree; 		// Number of children
-	public int NODES;	// Graph predefined nodes STILL NOT FIXED!!
+	public int NODES;	// Graph predefined nodes
 	private int nodeID = 0;		// Unique nodeID for each node
 	public GangiHo[] games;		// All games
 	
